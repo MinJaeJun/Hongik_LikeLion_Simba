@@ -1,6 +1,6 @@
-# hongik_likelion_team
+# hongik_likelion_Simba
 
-멋쟁이 사자처럼 10기 해커톤 ~~팀 
+멋쟁이 사자처럼 10기 해커톤 Simba팀 
 
 ### 아이디어 개요
 
