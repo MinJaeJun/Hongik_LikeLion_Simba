@@ -11,13 +11,19 @@
 ### 부가 기능
 
 ### 사용 기술 스택
-- FrontEnd : 
-- BackEnd :
+- Frontend : React
+- Backend : Gjango
 - Version Control : Git
 
-### 팀원
-- [황규빈](https://github.com/KyubinHwang) (팀장/프론트엔드) - 
-- 정석환 (기획/디자인) - 
-- 김동하 (백엔드) - 
-- 전민재 (백엔드) - 
-- 한지예 (백엔드) - 
+### 팀원 구성
+#### 기획 / 디자인
+- [황규빈](https://github.com/KyubinHwang) (팀장) - 담당한 부분들
+
+#### Frontend
+- 김도연 (프로트엔드) - 담당한 부분들
+
+#### Backend
+- 박선형 (백엔드) - 담당한 부분들
+- 김동하 (백엔드) - 담당한 부분들
+- 전민재 (백엔드) - 담당한 부분들
+- 한지예 (백엔드) - 담당한 부분들
