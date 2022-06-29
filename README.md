@@ -12,7 +12,7 @@
 
 ### 사용 기술 스택
 - Frontend : React
-- Backend : Gjango
+- Backend : Django
 - Version Control : Git
 
 ### 팀원 구성
